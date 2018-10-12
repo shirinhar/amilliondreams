@@ -240,7 +240,7 @@ header.masthead p {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(183, 172, 172, 0.8);
+  background: rgba(183, 172, 172, 0.5);
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
